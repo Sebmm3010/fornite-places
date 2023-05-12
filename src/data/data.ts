@@ -6,6 +6,7 @@ import {
   ciudad,
   ciudadela,
   cruce,
+  feli,
   granja,
   lab,
   muelle,
@@ -71,6 +72,10 @@ export const data: Data = {
     {
       name: 'Termas Tranquilas',
       img: termas
+    },
+    {
+      name: 'Eleccion para ti',
+      img: feli
     }
   ]
 };
