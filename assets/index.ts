@@ -10,6 +10,7 @@ import lab from './laboratorio.png';
 import muelle from './muelle.jpg';
 import plaza from './plaza.jpg';
 import termas from './termas.jpg';
+import feli from './feli.jpg';
 
 export {
   aldea,
@@ -23,5 +24,6 @@ export {
   lab,
   muelle,
   plaza,
-  termas
+  termas,
+  feli
 };
